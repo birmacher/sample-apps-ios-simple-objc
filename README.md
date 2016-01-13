@@ -20,13 +20,3 @@ After you fork this repository you can just:
 
 Everything else will be handled automatically and you can
 start playing with Bitrise in less than a minute.
-
-
-## Note
-
-This is a simple repository with a simple Xcode project.
-The repository has only one branch (master), one Xcode project file
-and the project contains only one *shared scheme*.
-
-The purpose of this is to make it quick and easy to validate and
-to experiment with this repository on Bitrise.
