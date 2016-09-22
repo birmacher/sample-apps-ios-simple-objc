@@ -16,6 +16,13 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    if (false) {
+        NSLog(@"asd");
+    }
+    
+    if (false && true) {
+        NSLog(@"asd");
+    }
     // Override point for customization after application launch.
     return YES;
 }
